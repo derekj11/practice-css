@@ -1,0 +1,16 @@
+h1 {
+  display: inline;
+}
+
+section {
+  margin-left: 25px;
+}
+
+q {
+  margin: 3em;
+}
+
+img {
+  float: left;
+  margin-right: 12px;
+}
